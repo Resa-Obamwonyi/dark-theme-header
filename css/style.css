@@ -1,0 +1,89 @@
+/* RESET */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* See color guide at the bottom*/
+body{
+	font-family: "Open Sans";
+	font-weight: 400;
+	color: hsl(0, 0%, 100%);
+	font-size: 14px;
+}
+/* HEADER SECTION */
+header {
+	background-color: hsl(217, 28%, 15%);
+}
+.top-svg{
+	width:50%;
+	margin: 0 25%;
+	padding-bottom: 70px;
+}
+.bottom-svg{
+	width:100%;
+	margin: 0;
+}
+.header-content{
+	position: absolute;
+	top: 500px;
+	left: 200px;
+	text-align: center;
+}
+.header-content h2{
+	color: hsl(0, 0%, 100%);
+	font-family: Raleway;
+	font-weight:700;
+	font-size: 30px;
+	line-height: 50px;
+	padding-bottom: 20px;
+	width:60%;
+	margin: 0 20%;
+}
+.header-content p{
+	width: 60%;
+	margin: 0 20%;
+	padding-bottom: 15px;
+	font-size: 15px;
+	line-height: 20px;
+	opacity: 0.8;
+}
+.header-content button{
+	background-color: hsl(176, 68%, 64%);
+	font-family: "Open Sans";
+	color: hsl(0, 0%, 100%);
+	padding: 10px 60px;
+	border-radius: 50px;
+	border: hidden;
+}
+/* FEATURES SECTION */
+
+
+/* PRODUCTIVE SECTION */
+
+
+/* TESTIMONIAL SECTION */
+
+/* FOOTER SECTION */
+
+
+/*Color guide*/
+
+/*Primary
+
+- Dark Blue (intro and email sign up background): hsl(217, 28%, 15%) / 	#1c2431
+
+- Dark Blue (main background): hsl(218, 28%, 13%) /	#181f2a
+
+- Dark Blue (footer background): hsl(216, 53%, 9%) / #0b1523
+- Dark Blue (testimonials background): hsl(219, 30%, 18%) / 	#202a3c
+
+### Accent
+
+- Cyan (inside call-to-action gradient): hsl(176, 68%, 64%) / 	#65e2d9
+- Blue (inside call-to-action gradient): hsl(198, 60%, 50%) / #339ecc
+
+### Neutral
+
+- White: hsl(0, 0%, 100%) / #fff
