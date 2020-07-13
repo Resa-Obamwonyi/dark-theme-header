@@ -11,6 +11,7 @@ body{
 	font-weight: 400;
 	color: hsl(0, 0%, 100%);
 	font-size: 14px;
+	background: #181f2a;
 }
 li{
 	list-style-type: none;
@@ -29,13 +30,13 @@ li{
 }
 .nav li{
 	display: inline-block;
-	float: left;
 	padding-left: 35px;
 	opacity: 0.8;
 }
 
 header {
 	background-color: hsl(217, 28%, 15%);
+	height: 1160px;  
 }
 .top-svg{
 	width:50%;
@@ -78,6 +79,7 @@ header {
 	border-radius: 50px;
 	border: hidden;
 }
+
 /* FEATURES SECTION */
 
 
